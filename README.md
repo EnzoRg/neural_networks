@@ -1,6 +1,6 @@
 # Redes Neuronales (FAMAF-UNC) - 2024
 
-Repositorio correspondiente al curso de posgrado de [Redes Neuronales](https://www.famaf.unc.edu.ar/~ftamarit/redes2024/) de FAMAF-UNC del año 2024
+Repositorio correspondiente al curso de posgrado de [Redes Neuronales de FAMAF-UNC](https://www.famaf.unc.edu.ar/~ftamarit/redes2024/) del año 2024
 
 ## Estructura del Repositorio
 
