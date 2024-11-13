@@ -1,6 +1,7 @@
 # Carpetas
 /Funciones
 /Ejercicios/FashionMNIST
+.vscode
 
 # Archivos 
 *.pdf
