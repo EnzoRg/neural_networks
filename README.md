@@ -6,6 +6,7 @@ Repositorio correspondiente al curso de posgrado de [Redes Neuronales de FAMAF-U
 
 - **Ejercicios**: Contiene los ejercicios propuestos en clase
 - **Trabajos Prácticos**: Desarrollo de los trabajos prácticos del curso
+- **Trabajo Final**: [Autoencoder](entregables/Trabajo_Final_2024_Manolucos_Enzo.pdf)
 
 ## Autor
 

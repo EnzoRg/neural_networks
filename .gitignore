@@ -6,7 +6,7 @@
 .vscode
 
 # Archivos 
-*.pdf
+#*.pdf
 *.png
 
 # Byte-compiled / optimized / DLL files
